@@ -1,4 +1,4 @@
-# AmirulQRCode
+# AmirulQRCode-pertemuan-14
 example of a QR-Code Scanner project that can read data in the form of text (JSON), open the web, and telephone numbers.
 <br> Nama : Amirul Mu'minin
 <br> NIM : 312110109
